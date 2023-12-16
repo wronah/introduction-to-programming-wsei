@@ -7,7 +7,7 @@
 
         public virtual void DajGlos()
         {
-            Console.WriteLine("Hauuu");
+            Console.WriteLine("Wrrrrrrrrrrr");
         }
     }
 }
